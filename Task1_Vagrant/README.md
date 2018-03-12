@@ -36,8 +36,9 @@ There's an included Vagrantfile that allows quick testing of the built Vagrant b
     # For VirtualBox:
     $ vagrant up virtualbox --provider=virtualbox
     
- ## For Accessing the hello world 
+ ## For Accessing the hello world (If Everything Installed as mentioned above we can access the by using the below sample URL)
  
+ ## Examples :
  
   for virualbox - http://172.16.3.2/hello.html
   for vmware - http://192.168.3.2/hello.html
